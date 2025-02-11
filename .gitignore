@@ -1,0 +1,40 @@
+# Ignore node_modules and dependencies
+node_modules/
+bower_components/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled code
+*.out
+*.class
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore environment variables and secrets
+.env
+*.key
+*.pem
+
+# Ignore data folder
+data/
+log/
+
+runs/
+model/

@@ -1,0 +1,15 @@
+training:
+  epochs: 2
+  batch_size: 32
+  learning_rate: 0.001
+  early_stopping: 5
+
+data:
+  train_path_features: "data/data_model/train_features.h5"
+  val_path_features: "data/data_model/val_features.h5"
+  test_path_features: "data/data_model/test_features.h5"
+  train_path_labels: "data/data_model/train_labels.h5"
+  val_path_labels: "data/data_model/val_labels.h5"
+  test_path_labels: "data/data_model/test_labels.h5"
+
+device: "mps" # Options: "cuda", "mps", "cpu"

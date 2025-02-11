@@ -1,0 +1,5 @@
+# device: "mps" # Options: "cuda", "mps", "cpu"
+# model_path: "models_2/best_siamese_model_10_02_15epoch_100data.pth"
+
+device: "cpu" # Options: "cuda", "mps", "cpu"
+model_path: "models/best_siamese_model.pth"
