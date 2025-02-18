@@ -5,7 +5,7 @@
 This projects tries to make a siamese model for cover song similarity tasks.
  - The notebooks directory has the EDA and a pipeline of how to run the project.
  - Bellow you will find more information for running and customazing the project.
- - For accessing the 2 models i trained click [me](https://drive.google.com/drive/folders/1TpyId1EqfYSJg1RSts0V5eXXyXp-racO).
+ - For accessing the 2 models i trained click [me](https://drive.google.com/drive/folders/19UqPQDRTk5gPoOoW3a6_iPhHZvRiS3OR?usp=sharing).
 
 ## Preprocess the Data
 
